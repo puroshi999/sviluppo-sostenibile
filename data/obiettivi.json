@@ -1,0 +1,19 @@
+[
+    { "numero": 1, "titolo": "Povertà Zero", "colore": "#e5243b", "descrizione": "Porre fine ad ogni forma di povertà nel mondo." },
+    { "numero": 2, "titolo": "Fame Zero", "colore": "#dda63a", "descrizione": "Porre fine alla fame, raggiungere la sicurezza alimentare." },
+    { "numero": 3, "titolo": "Salute e Benessere", "colore": "#4c9f38", "descrizione": "Assicurare la salute e il benessere per tutti." },
+    { "numero": 4, "titolo": "Istruzione di qualità", "colore": "#c5192d", "descrizione": "Fornire un’istruzione equa e inclusiva." },
+    { "numero": 5, "titolo": "Uguaglianza di genere", "colore": "#ff3a21", "descrizione": "Raggiungere la parità di genere." },
+    { "numero": 6, "titolo": "Acqua Pulita e Servizi Igienico-Sanitari", "colore": "#26bde2", "descrizione": "Assicurare la disponibilità e la gestione sostenibile dell’acqua." },
+    { "numero": 7, "titolo": "Energia Pulita e Accessibile", "colore": "#f36f20", "descrizione": "Assicurare l’accesso a sistemi energetici affidabili." },
+    { "numero": 8, "titolo": "Lavoro Dignitoso e Crescita Economica", "colore": "#d5006d", "descrizione": "Promuovere una crescita economica sostenibile." },
+    { "numero": 9, "titolo": "Imprese, Innovazione e Infrastrutture", "colore": "#ffb900", "descrizione": "Costruire un’infrastruttura resiliente." },
+    { "numero": 10, "titolo": "Ridurre le Disuguaglianze", "colore": "#a200ff", "descrizione": "Ridurre le disuguaglianze all’interno e tra i Paesi." },
+    { "numero": 11, "titolo": "Città e Comunità Sostenibili", "colore": "#3fbb45", "descrizione": "Rendere le città e gli insediamenti umani inclusivi." },
+    { "numero": 12, "titolo": "Consumo e Produzione Responsabili", "colore": "#00a3e0", "descrizione": "Garantire modelli di consumo e produzione sostenibili." },
+    { "numero": 13, "titolo": "Lotta contro il Cambiamento Climatico", "colore": "#5e35b1", "descrizione": "Combattere il cambiamento climatico e le sue conseguenze." },
+    { "numero": 14, "titolo": "Vita Sott’Acqua", "colore": "#009c95", "descrizione": "Conservare e utilizzare in modo sostenibile gli oceani." },
+    { "numero": 15, "titolo": "Vita sulla Terra", "colore": "#7b1fa2", "descrizione": "Proteggere, ripristinare e promuovere l’uso sostenibile degli ecosistemi." },
+    { "numero": 16, "titolo": "Pace, Giustizia e Istituzioni Forti", "colore": "#616161", "descrizione": "" },
+    { "numero": 17, "titolo": "Partnership per gli Obiettivi", "colore": "#3fbb45", "descrizione": "Rafforzare i mezzi di attuazione e rivitalizzare il partenariato globale." }
+  ]

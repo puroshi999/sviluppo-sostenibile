@@ -1,0 +1,10 @@
+extends layout
+
+block content
+  h2 Obiettivi di Sviluppo Sostenibile - Agenda 2030
+
+  .obiettivi-container
+    each obiettivo in obiettivi
+      .card(style=`background-color: ${obiettivo.colore}`)
+        h3 Obiettivo #{obiettivo.numero}: #{obiettivo.titolo}
+        p #{obiettivo.descrizione}
